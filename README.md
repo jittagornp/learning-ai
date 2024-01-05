@@ -1,5 +1,7 @@
 # AI Learning
-เรียนรู้  AI ฉบับคนเริ่มต้น ที่ไม่มีความรู้อะไรเกี่ยวกับ AI เลย
+> เรียนรู้  AI ฉบับคนเริ่มต้น ที่ไม่มีความรู้อะไรเกี่ยวกับ AI เลย
+
+อันนี้เป็น Learning ของผม ที่เวลาผมอ่าน แล้วสงสัย หรือสนใจอะไรเกี่ยวกับ AI ผมจะเอาความรู้นั้น ๆ มาแปะทิ้งไว้ในนี้ อาจจะสะเปะสะปะหน่อยนะครับ เพราะว่ายังไม่มีความรู้ด้านนี้ ยังไม่รู้ว่าต้องจัดหมวดหมู่ความรู้ยังไง แต่เดี๋ยวจะค่อย ๆ จัดให้ดีขึ้นครับ
 
 
-[Random Forest คืออะไร](https://www.facebook.com/datarockie/posts/pfbid021fcevfqkUEnZ83jDWyW2K1ZxaWM2YpcziosjyGxHbfUdByS3X5r5Be92CqNQ8nJyl) ขอบคุณบทความจาก DataRockie ครับ
+- [Random Forest คืออะไร](https://www.facebook.com/datarockie/posts/pfbid021fcevfqkUEnZ83jDWyW2K1ZxaWM2YpcziosjyGxHbfUdByS3X5r5Be92CqNQ8nJyl) ขอบคุณบทความจาก DataRockie ครับ
